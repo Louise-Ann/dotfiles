@@ -11,8 +11,8 @@ You can clone the repository wherever you want. (I keep it in `~/Code/dotfiles`,
 #### Follow these steps
 - `cd ~`
 - `mkdir dotfiles`
-- `ln -s /Users/{name}/Code/dotfiles /Users/{name}/dotfiles`
-- `git clone https://github.com/johnhalsey/dotfiles.git` <- or use via SSH if you can
+- `ln -s /Users/lou/Code/dotfiles/Users/lou/dotfiles`
+- `git clone https://github.com/Louise-Ann/dotfiles.git` <- or use via SSH if you can
 - `cd dotfiles`
 - `./bootstrap.sh`
 
